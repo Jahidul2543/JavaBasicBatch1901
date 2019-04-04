@@ -1,10 +1,12 @@
+package classobjectmethod;
+
 public class Phone {
 
 
 
     public Phone(){
 
-        System.out.println("You are using constructor to build Phone objects");
+        System.out.println("You are using constructor to build classobjectmethod.Phone objects");
 
     }
 
@@ -35,7 +37,7 @@ public class Phone {
         System.out.println("My Name " + name);
 
         /**
-         * Let's create an Object of Phone Type
+         * Let's create an Object of classobjectmethod.Phone Type
          * Law to create an Object
          * ClassName objectName = new ClassName();
          * This default constructor = ClassName()

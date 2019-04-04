@@ -1,3 +1,7 @@
+package variables;
+
+import variables.VariablesDemo;
+
 public class ClassVariableDemo {
 
     public static void main(String[] args) {

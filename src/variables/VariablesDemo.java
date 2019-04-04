@@ -1,6 +1,9 @@
+package variables;
+
 public class VariablesDemo {
     /**
-     * This primitive type. here is no new new word
+     * Simple explanation on Types of Variables
+     * @author Jahidul Islam
      *
      */
 
@@ -70,8 +73,6 @@ public class VariablesDemo {
 
         System.out.println("Calling Instance variable using instance(Object) of the VariableDemo Class> Value must be 2: " + v);
 
-
-
     }
 
     /**
@@ -91,7 +92,8 @@ public class VariablesDemo {
     }
 
 }
+
 /**
- * Class variable, instance variable, local variable  are all of them are data type? Types of variable
+ * Class variable, instance variable, local variable  are all of them are data type? Ans: Types of variable
  *
  * */

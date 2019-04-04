@@ -1,3 +1,5 @@
+package operators;
+
 public class ArtihmaticOperators {
 
     public static void main(String[] args) {

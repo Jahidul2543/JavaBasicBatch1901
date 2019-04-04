@@ -1,3 +1,5 @@
+package operators;
+
 public class ConditionalOperator {
     public static void main(String[] args){
         int value1 = 1;

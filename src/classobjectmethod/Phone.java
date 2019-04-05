@@ -29,7 +29,7 @@ public class Phone {
 
       /**
        *
-       * Adding String reference variables or variables is called String concatenation
+       * Adding others.StringDemo reference variables or variables is called others.StringDemo concatenation
        *
        * */
 

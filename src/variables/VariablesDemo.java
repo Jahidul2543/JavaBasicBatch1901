@@ -17,7 +17,7 @@ public class VariablesDemo {
       /**
        * Is this out side the method? Ans: Yes
        * reference variable = name
-       * reference variable type = String
+       * reference variable type = others.StringDemo
        * Is there any static key word before reference variable type? Ans: Yes
        * This is called class variable
        * Why?
@@ -30,7 +30,7 @@ public class VariablesDemo {
         /**
          * Two types of data is in Java
          *   1. Primitive data type (8)--> int, short, byte, long, char, float, double, boolean
-         *      String
+         *      others.StringDemo
          *   2. Object Type  --->  How many/much object type data in Java? Ans: No Limit
          *
          * Here objOfVariableDemo is a reference variable

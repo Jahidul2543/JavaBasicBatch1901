@@ -19,6 +19,7 @@ public class NokiaANdroidPhone extends Nokia5510 implements InterfaceAndroidPhon
         System.out.println("Create Touch Screen");
     }
 
+
     public void getMakeCallAndSendTextFunctionalityFromNokia5510(){
 
         super.makeCall();
@@ -32,6 +33,7 @@ public class NokiaANdroidPhone extends Nokia5510 implements InterfaceAndroidPhon
         objAndroidPhone.androidOs();
         objAndroidPhone.toucScreen();
         objAndroidPhone.getMakeCallAndSendTextFunctionalityFromNokia5510();
+        objAndroidPhone.addAttena();
 
     }
 }

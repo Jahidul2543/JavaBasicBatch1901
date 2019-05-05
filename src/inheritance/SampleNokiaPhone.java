@@ -3,6 +3,7 @@ package inheritance;
 public abstract class SampleNokiaPhone implements  SymbianPhone {
 
     /**
+     *
      * An interface can only be implemented by class, class cant extend interface
      * class can only extend abstract class or class and can implement an interface
      * */
